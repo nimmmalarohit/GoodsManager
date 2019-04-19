@@ -1,4 +1,4 @@
-name := "DataStructures"
+name := "GoodsManager"
 
 version := "0.1"
 
